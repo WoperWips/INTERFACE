@@ -26,6 +26,8 @@ FuncionarioAssalariado.java: Implementa a interface para calcular o bônus fixo.
 FuncionarioHorista.java: Implementa a interface e calcula o bônus baseado no salário anual.
 
 Diagrama UML
+
+
 ![Diagrama em branco](https://github.com/user-attachments/assets/7422cb97-29cf-4dc7-8b1d-7b428c5088c1)
 
 
