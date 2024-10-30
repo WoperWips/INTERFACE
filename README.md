@@ -20,8 +20,11 @@ Invoca o método calcularBonus() para exibir o valor do bônus de cada funcioná
 Estrutura do Código
 
 Funcionario.java: Define a interface Funcionario com o método calcularBonus().
+
 FuncionarioAssalariado.java: Implementa a interface para calcular o bônus fixo.
+
 FuncionarioHorista.java: Implementa a interface e calcula o bônus baseado no salário anual.
+
 Main.java: Classe principal que executa o programa e mostra os resultados.
 
 📋 Pré-requisitos Visual Studio + extensões do Java
