@@ -1,4 +1,4 @@
-package scr;
+package scr.lib;
 
 //Classe que representa um funcionário horista junto com o bônus é calculado como 10% do total anual recebido pelo funcionário.
 public class FuncionarioHorista implements Funcionario {

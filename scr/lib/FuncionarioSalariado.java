@@ -1,4 +1,4 @@
-package scr;
+package scr.lib;
 
 //Classe que representa um funcionário Salariado junto com o bônus de um valor fixo de R$ 5.000,00.
 public class FuncionarioSalariado implements Funcionario {
